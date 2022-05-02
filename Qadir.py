@@ -9,7 +9,7 @@ if bit == '64bit':
     from Qadir import knock_Out
     knock_Out()
 elif bit == '32bit':
-    from Mahar import knock_Out
+    from Qdr import knock_Out
     knock_Out()
 else:
     print('\n YOUR DEVICE IS NOT SUPPORT THIS COMMAND')
